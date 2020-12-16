@@ -1,0 +1,9 @@
+@media(max-width: 1150px) {
+	.pop-up {
+		width: 400px;
+	}
+
+	.pop-text {
+		font-size: 28px;
+	}
+}
